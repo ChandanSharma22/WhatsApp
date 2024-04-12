@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387052327141",
+    "project_id": "ck-whatsapp-e810d",
+    "storage_bucket": "ck-whatsapp-e810d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387052327141:android:87b0333b8cc7106559c40c",
+        "android_client_info": {
+          "package_name": "com.ck.WhatsApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC42YUsRBxq5dX79ME7wSSMl3ypLVo7Ai8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
